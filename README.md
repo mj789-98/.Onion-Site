@@ -82,8 +82,8 @@ Now use the text you copied to the notepad earlier in the process. Reload the pa
 
 
 
-                                           !!!!! CONGRATS !!!!!! You not just created a website on the daark web but also self-hosted it on your own pc.
-                                           Now you are exposed to the dark web.
+          !!!!! CONGRATS !!!!!! You not just created a website on the daark web but also self-hosted it on your own pc.
+           Now you are exposed to the dark web.
 
 
 
